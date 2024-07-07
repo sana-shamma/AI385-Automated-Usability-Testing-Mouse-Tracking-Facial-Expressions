@@ -19,7 +19,7 @@ The mechanics of the solution are as follows: The software generates a real-time
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/sana-shamma/AI385-Automated-Usability-Testing-Mouse-Tracking-Facial-Expressions
+git clone https://github.com/sana-shamma/AI385-Automated-Usability-Testing-Mouse-Tracking-Facial-Expressions.git
 ```
 2. Navigate to the project directory
 ```
